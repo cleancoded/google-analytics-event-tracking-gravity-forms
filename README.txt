@@ -43,23 +43,23 @@ For payment based forms, you can leave the value blank to convert using the tota
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for gravity-forms-google-analytics-event-tracking
+2. Search for google-analytics-event-tracking-gravity-forms
 3. Click 'Install Now'
-4. Activate the plugin on the Plugin dashboard
+4. Activate the plugin from the dashboard
 
-= Uploading in WordPress Dashboard =
+= Uploading from the WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
-3. Select `gravity-forms-event-tracking.zip` from your computer
+3. Select `google-analytics-event-tracking-gravity-forms.zip` from your computer
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
 = Using FTP =
 
-1. Download `gravity-forms-event-tracking.zip`
-2. Extract the `gravity-forms-event-tracking` directory to your computer
-3. Upload the `gravity-forms-event-tracking` directory to the `/wp-content/plugins/` directory
+1. Download `google-analytics-event-tracking-gravity-forms.zip`
+2. Extract the `google-analytics-event-tracking-gravity-forms` directory to your computer
+3. Upload the `google-analytics-event-tracking-gravity-forms` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
 == Frequently Asked Questions ==
